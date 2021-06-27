@@ -9,5 +9,5 @@ labels: 'type:bug'
 _What appears to be the problem?_
 
 # Steps to Reproduce
-1. Clicked on "Show"
-1. ...
+1. Steps to reproduce the bug
+1. Include screenshots, logs, and links
