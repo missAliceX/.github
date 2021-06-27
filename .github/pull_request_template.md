@@ -1,5 +1,5 @@
 # Context
-_What and what?_
+_What and why?_
 
 # Acceptance Criteria
 - [ ] The system must behaves this way
