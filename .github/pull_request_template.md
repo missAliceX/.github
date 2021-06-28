@@ -4,8 +4,9 @@ _What and why?_
 # Acceptance Criteria
 _What needs to be accomplished before we consider it to be complete?_
 - [ ] The system must behaves this way
-
-<Screenshots, logs, explanations...>
+```
+Screenshots, logs, explanations...
+```
 
 # Changes Summary
 _What are the main changes?_
