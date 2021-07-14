@@ -4,6 +4,10 @@ _What and why?_
 # Acceptance Criteria
 _What needs to be accomplished before we consider it to be complete?_
 - [ ] The system must behaves this way
+
+# Testing
+_What tests are performed and does it verify the acceptance criteria?_
+- [ ] Performed this test
 ```
 Screenshots, logs, explanations...
 ```
